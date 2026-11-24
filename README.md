@@ -1,30 +1,23 @@
-# insect-inspired-adaptive-walker
- student engineering project exploring an insect-inspired walking robot, gait control, sensor feedback, and walking performance.
+# Springtail P1
 
-# Student Names:
+Springtail P1 is a student engineering project exploring insect-inspired tripod gait, ultrasonic obstacle sensing, and a spring-loaded jump mechanism.
+
+[View the project site](https://awad47208-tech.github.io/insect-inspired-adaptive-walker/)
+
+![Assembled Springtail P1 CAD model](springtail-cad.jpg)
+
+## Project files
+
+- [Springtail Robot Assembly Manual — Rev F](springtail-assembly-rev-f.pdf) — six sheets covering the chassis, linkages, furca, wiring, and parts list.
+- [Springtail Inventor kinematics joint sheet](springtail-inventor.pdf) — assembled views, joints, and kinematic notes for the Inventor model.
+- [Tinkercad circuit image](springtail-circuit.png) — Arduino Uno R3, three servos, two ultrasonic sensors, and an L293D-driven DC motor.
+- [Original design references](index.md) and [reference leg model](leg-hrl.ipt).
+
+The Tinkercad circuit and the Inventor model document different P1 configurations from the Rev F build. The Rev F manual describes its own four-servo wiring and hinged furca mechanism, and flags rocker-servo torque for validation.
+
+## Project team
 
 - Mohamed Ibrahim Awad
 - Abdullah Alzubaidi
 - Abdallah Arafat
 - Marjan Shadmani Fard
-
-## Background Research and Design References
-
-### Capers II: A Hexapod Robot
-[Project guide and video](https://www.instructables.com/Capers-II-a-Hexapod-Robot/)
-
-We reviewed the guide to get ideas about assembling the leg joints. We also watched the video to see how the completed robot moves and works. We are using both as references to help us plan our own walker design before building it.
-
-### CAD Leg Model
-We obtained a CAD leg model as a visual reference for the leg shape and joint arrangement. It will help us explore design ideas, but it is not our final design.
-
-## Next Steps
-
-- Identify the components needed for our walker.
-- Check their specifications, compatibility, and prices.
-- Prepare the component list and order the parts.
-- After receiving the parts, develop our design and begin building the walker.
-
-## More References 
-
-https://www.pcbway.com/project/shareproject/Quadruped_Spider_Robot_3D_Printed_Parts_SG90_Servo_Motor_Arduino_Nano_10107fe3.html
