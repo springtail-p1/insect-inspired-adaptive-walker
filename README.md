@@ -2,7 +2,7 @@
 
 Springtail P1 is a student engineering project exploring insect-inspired tripod gait, ultrasonic obstacle sensing, and a spring-loaded jump mechanism.
 
-[View the project site](https://awad47208-tech.github.io/insect-inspired-adaptive-walker/)
+[View the project site](https://springtail-p1.github.io/insect-inspired-adaptive-walker/)
 
 ![Assembled Springtail P1 CAD model](springtail-cad.jpg)
 
